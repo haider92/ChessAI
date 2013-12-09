@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ToolkitSOML>
+    <RunData step="1">
+        <Action>1,18</Action>
+        <State>rnbqkbnr/ppp1pppp/8/3p4/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="2">
+        <Action>6,21</Action>
+        <State>rnbqkb1r/ppp1pppp/5n2/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="3">
+        <Action>11,27</Action>
+        <State>rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="4">
+        <Action>2,38</Action>
+        <State>rnbqkb1r/ppp2pp1/4pn1p/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 5</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="5">
+        <Action>38,31</Action>
+        <State>r1bqkb1r/pppn1pp1/4pn1p/3p4/3P3B/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 2 6</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="6">
+        <Action>12,28</Action>
+        <State>r1bqkb1r/pppn1p2/4pn1p/3p2p1/3PP2B/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 7</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="7">
+        <Action>31,22</Action>
+        <State>r1bqkb1r/pppn1p2/4pn1p/6p1/3Pp3/2N2NB1/PPP2PPP/R2QKB1R w KQkq - 0 8</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="8">
+        <Action>21,11</Action>
+        <State>r1bqk2r/pppn1p2/4pn1p/6p1/1b1Pp3/2N3B1/PPPN1PPP/R2QKB1R w KQkq - 2 9</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="9">
+        <Action>5,33</Action>
+        <State>r1bqk2r/pp1n1p2/2p1pn1p/1B4p1/1b1Pp3/2N3B1/PPPN1PPP/R2QK2R w KQkq - 0 10</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="10">
+        <Action>22,36</Action>
+        <State>r1bqk2r/pp1n1p2/4pn1p/1p2B1p1/1b1Pp3/2N5/PPPN1PPP/R2QK2R w KQkq - 0 11</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="11">
+        <Action>11,28</Action>
+        <State>r1bqk2r/pp1n1p2/4p2p/1p2B1p1/1b1Pn3/2N5/PPP2PPP/R2QK2R w KQkq - 0 12</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="12">
+        <Action>36,63</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/1p4p1/1b1P4/2n5/PPP2PPP/R2QK2R w KQq - 0 13</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="13">
+        <Action>3,11</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/1p1n2p1/1b1P4/8/PPPQ1PPP/R3K2R w KQq - 2 14</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="14">
+        <Action>10,18</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/bp1n2p1/3P4/2P5/PP1Q1PPP/R3K2R w KQq - 1 15</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="15">
+        <Action>4,6</Action>
+        <State>r1bq1k1B/pp1n1p2/4p2p/bp1n2p1/3P4/2P5/PP1Q1PPP/R4RK1 w - - 3 16</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="16">
+        <Action>11,4</Action>
+        <State>r1b2k1B/ppqn1p2/4p2p/bp1n2p1/3P4/2P5/PP3PPP/R3QRK1 w - - 5 17</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="17">
+        <Action>4,28</Action>
+        <State>r1b3kB/ppqn1p2/4p2p/bp1n2p1/3PQ3/2P5/PP3PPP/R4RK1 w - - 7 18</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="18">
+        <Action>18,26</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/2qPQ3/8/PP3PPP/R4RK1 w - - 0 19</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="19">
+        <Action>5,2</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/1q1PQ3/8/PP3PPP/R1R3K1 w - - 2 20</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="20">
+        <Action>8,16</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/3PQ3/P7/1q3PPP/R1R3K1 w - - 0 21</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="21">
+        <Action>2,1</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp4p1/3PQ3/P1n5/1q3PPP/RR4K1 w - - 2 22</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="22">
+        <Action>28,49</Action>
+        <State>r1b3kB/pQ1n1p2/4p2p/bp4p1/3P4/P7/1q3PPP/Rn4K1 w - - 0 23</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="23">
+        <Action>49,21</Action>
+        <State>r1b3kB/p2n1p2/4p2p/bp4p1/3P4/P4Q2/5PPP/Rnq3K1 w - - 2 24</State>
+        <Score>score: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="24">
+        <Action>21,3</Action>
+        <State>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="25">
+        <Action>1,18</Action>
+        <State>rnbqkbnr/pp1ppppp/8/2p5/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="26">
+        <Action>18,28</Action>
+        <State>rnbqkbnr/pp1p1ppp/4p3/2p5/4N3/8/PPPPPPPP/R1BQKBNR w KQkq - 0 3</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="27">
+        <Action>6,21</Action>
+        <State>rnbqkb1r/pp1p1ppp/4pn2/2p5/4N3/5N2/PPPPPPPP/R1BQKB1R w KQkq - 2 4</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="28">
+        <Action>28,38</Action>
+        <State>r1bqkb1r/pp1p1ppp/2n1pn2/2p3N1/8/5N2/PPPPPPPP/R1BQKB1R w KQkq - 4 5</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="29">
+        <Action>12,28</Action>
+        <State>r1bqkb1r/pp1p1pp1/2n1pn1p/2p3N1/4P3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 0 6</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="30">
+        <Action>5,33</Action>
+        <State>r1bqkb1r/pp1p1pp1/2n1pn2/1Bp3p1/4P3/5N2/PPPP1PPP/R1BQK2R w KQkq - 0 7</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="31">
+        <Action>28,36</Action>
+        <State>r1bqkb1r/pp1p1pp1/2n1p3/1BpnP1p1/8/5N2/PPPP1PPP/R1BQK2R w KQkq - 1 8</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="32">
+        <Action>10,26</Action>
+        <State>r1bqkb1r/pp1p1pp1/2n1p3/1Bp1P1p1/1nP5/5N2/PP1P1PPP/R1BQK2R w KQkq - 1 9</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="33">
+        <Action>3,17</Action>
+        <State>r1bqkb1r/pp1p1pp1/2n1p3/1Bp1P3/1nP3p1/1Q3N2/PP1P1PPP/R1B1K2R w KQkq - 0 10</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="34">
+        <Action>21,6</Action>
+        <State>r1bqkb1r/pp1p1pp1/4p3/1Bp1P3/1nPn2p1/1Q6/PP1P1PPP/R1B1K1NR w KQkq - 2 11</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="35">
+        <Action>33,51</Action>
+        <State>r1b1kb1r/pp1q1pp1/4p3/2p1P3/1nPn2p1/1Q6/PP1P1PPP/R1B1K1NR w KQkq - 0 12</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="36">
+        <Action>17,18</Action>
+        <State>r1b1kb1r/pp1q1pp1/4p3/2p1P3/1nP3p1/2Q5/PPnP1PPP/R1B1K1NR w KQkq - 2 13</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="37">
+        <Action>4,5</Action>
+        <State>r1b1kb1r/pp1q1pp1/4p3/2p1P3/1nP3p1/2Q5/PP1P1PPP/n1B2KNR w kq - 0 14</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="38">
+        <Action>9,17</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/1nP3p1/1PQq4/P2P1PPP/n1B2KNR w kq - 1 15</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="39">
+        <Action>6,12</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/1nP3p1/1PQ5/P2PNPPP/nqB2K1R w kq - 3 16</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="40">
+        <Action>11,27</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/2PP2p1/1PQ5/n3NPPP/nqB2K1R w kq - 0 17</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="41">
+        <Action>18,9</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/2PP2p1/1P6/nq2NPPP/n1B2K1R w kq - 0 18</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="42">
+        <Action>2,9</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/2PP2p1/1n6/nB2NPPP/5K1R w kq - 0 19</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="43">
+        <Action>5,6</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/2PP2p1/8/nB1nNPPP/6KR w kq - 2 20</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="44">
+        <Action>12,29</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/2nP1Np1/8/nB3PPP/6KR w kq - 0 21</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="45">
+        <Action>9,0</Action>
+        <State>r1b1kb1r/pp3pp1/4p3/2p1P3/2nP1Np1/8/5PPP/B1n3KR w kq - 2 22</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="46">
+        <Action>27,34</Action>
+        <State>r1b1kb1r/pp3p2/4p3/2P1P1p1/2n2Np1/8/5PPP/B1n3KR w kq - 0 23</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="47">
+        <Action>0,9</Action>
+        <State>r1b1kb1r/pp3p2/4p3/2P1P1p1/5Np1/8/1n3PPP/2n3KR w kq - 0 24</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="48">
+        <Action>34,42</Action>
+        <State>r1b1kb1r/pp3p2/2P1p3/4P3/5pp1/8/1n3PPP/2n3KR w kq - 0 25</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="49">
+        <Action>42,50</Action>
+        <State>r1b1kb1r/ppP2p2/4p3/4P3/5p2/6p1/1n3PPP/2n3KR w kq - 0 26</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="50">
+        <Action>15,22</Action>
+        <State>r1b1kb1r/ppP2p2/4p3/4P3/5p2/6P1/1n2nPP1/6KR w kq - 1 27</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="51">
+        <Action>6,5</Action>
+        <State>r1b1kb1r/ppP2p2/4p3/4P3/5p2/6n1/1n3PP1/5K1R w kq - 0 28</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="52">
+        <Action>13,22</Action>
+        <State>r1b1kb2/ppP2p2/4p3/4P3/5p2/6P1/1n4P1/5K1r w q - 0 29</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="53">
+        <Action>5,13</Action>
+        <State>r1b1k3/ppP2p2/4p3/2b1P3/5p2/6P1/1n3KP1/7r w q - 2 30</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="54">
+        <Action>13,21</Action>
+        <State>r1b1k3/ppP2p2/4p3/2b1P3/5p2/5KP1/1n4P1/5r2 w q - 4 31</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="55">
+        <Action>21,30</Action>
+        <State>r1b1k3/ppP2p2/4p3/2b1P3/5pK1/3n2P1/6P1/5r2 w q - 6 32</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="56">
+        <Action>22,29</Action>
+        <State>r1b1k3/ppP2p2/4p3/2b1P3/5rK1/3n4/6P1/8 w q - 0 33</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="57">
+        <Action>30,22</Action>
+        <State>r1b1k3/ppP2p2/4p3/4P3/5r2/3n2K1/5bP1/8 w q - 2 34</State>
+        <Score>score: [0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="58">
+        <Action>22,15</Action>
+        <State>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="59">
+        <Action>1,18</Action>
+        <State>rnbqkbnr/ppp1pppp/8/3p4/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="60">
+        <Action>6,21</Action>
+        <State>rnbqkb1r/ppp1pppp/5n2/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="61">
+        <Action>11,27</Action>
+        <State>rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="62">
+        <Action>2,38</Action>
+        <State>rnbqkb1r/ppp2pp1/4pn1p/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 5</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="63">
+        <Action>38,31</Action>
+        <State>r1bqkb1r/pppn1pp1/4pn1p/3p4/3P3B/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 2 6</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="64">
+        <Action>12,28</Action>
+        <State>r1bqkb1r/pppn1p2/4pn1p/3p2p1/3PP2B/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 7</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="65">
+        <Action>31,22</Action>
+        <State>r1bqkb1r/pppn1p2/4pn1p/6p1/3Pp3/2N2NB1/PPP2PPP/R2QKB1R w KQkq - 0 8</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="66">
+        <Action>21,11</Action>
+        <State>r1bqk2r/pppn1p2/4pn1p/6p1/1b1Pp3/2N3B1/PPPN1PPP/R2QKB1R w KQkq - 2 9</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="67">
+        <Action>5,33</Action>
+        <State>r1bqk2r/pp1n1p2/2p1pn1p/1B4p1/1b1Pp3/2N3B1/PPPN1PPP/R2QK2R w KQkq - 0 10</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="68">
+        <Action>22,36</Action>
+        <State>r1bqk2r/pp1n1p2/4pn1p/1p2B1p1/1b1Pp3/2N5/PPPN1PPP/R2QK2R w KQkq - 0 11</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="69">
+        <Action>11,28</Action>
+        <State>r1bqk2r/pp1n1p2/4p2p/1p2B1p1/1b1Pn3/2N5/PPP2PPP/R2QK2R w KQkq - 0 12</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="70">
+        <Action>36,63</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/1p4p1/1b1P4/2n5/PPP2PPP/R2QK2R w KQq - 0 13</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="71">
+        <Action>3,11</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/1p1n2p1/1b1P4/8/PPPQ1PPP/R3K2R w KQq - 2 14</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="72">
+        <Action>10,18</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/bp1n2p1/3P4/2P5/PP1Q1PPP/R3K2R w KQq - 1 15</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="73">
+        <Action>4,6</Action>
+        <State>r1bq1k1B/pp1n1p2/4p2p/bp1n2p1/3P4/2P5/PP1Q1PPP/R4RK1 w - - 3 16</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="74">
+        <Action>11,4</Action>
+        <State>r1b2k1B/ppqn1p2/4p2p/bp1n2p1/3P4/2P5/PP3PPP/R3QRK1 w - - 5 17</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="75">
+        <Action>4,28</Action>
+        <State>r1b3kB/ppqn1p2/4p2p/bp1n2p1/3PQ3/2P5/PP3PPP/R4RK1 w - - 7 18</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="76">
+        <Action>18,26</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/2qPQ3/8/PP3PPP/R4RK1 w - - 0 19</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="77">
+        <Action>5,2</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/1q1PQ3/8/PP3PPP/R1R3K1 w - - 2 20</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="78">
+        <Action>8,16</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/3PQ3/P7/1q3PPP/R1R3K1 w - - 0 21</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="79">
+        <Action>2,1</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp4p1/3PQ3/P1n5/1q3PPP/RR4K1 w - - 2 22</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="80">
+        <Action>28,49</Action>
+        <State>r1b3kB/pQ1n1p2/4p2p/bp4p1/3P4/P7/1q3PPP/Rn4K1 w - - 0 23</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="81">
+        <Action>49,21</Action>
+        <State>r1b3kB/p2n1p2/4p2p/bp4p1/3P4/P4Q2/5PPP/Rnq3K1 w - - 2 24</State>
+        <Score>score: [0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="82">
+        <Action>21,3</Action>
+        <State>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="83">
+        <Action>1,18</Action>
+        <State>rnbqkbnr/ppp1pppp/8/3p4/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="84">
+        <Action>6,21</Action>
+        <State>rnbqkb1r/ppp1pppp/5n2/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="85">
+        <Action>11,27</Action>
+        <State>rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="86">
+        <Action>2,38</Action>
+        <State>rnbqkb1r/ppp2pp1/4pn1p/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 5</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="87">
+        <Action>38,31</Action>
+        <State>r1bqkb1r/pppn1pp1/4pn1p/3p4/3P3B/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 2 6</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="88">
+        <Action>12,28</Action>
+        <State>r1bqkb1r/pppn1p2/4pn1p/3p2p1/3PP2B/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 7</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="89">
+        <Action>31,22</Action>
+        <State>r1bqkb1r/pppn1p2/4pn1p/6p1/3Pp3/2N2NB1/PPP2PPP/R2QKB1R w KQkq - 0 8</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="90">
+        <Action>21,11</Action>
+        <State>r1bqk2r/pppn1p2/4pn1p/6p1/1b1Pp3/2N3B1/PPPN1PPP/R2QKB1R w KQkq - 2 9</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="91">
+        <Action>5,33</Action>
+        <State>r1bqk2r/pp1n1p2/2p1pn1p/1B4p1/1b1Pp3/2N3B1/PPPN1PPP/R2QK2R w KQkq - 0 10</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="92">
+        <Action>22,36</Action>
+        <State>r1bqk2r/pp1n1p2/4pn1p/1p2B1p1/1b1Pp3/2N5/PPPN1PPP/R2QK2R w KQkq - 0 11</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="93">
+        <Action>11,28</Action>
+        <State>r1bqk2r/pp1n1p2/4p2p/1p2B1p1/1b1Pn3/2N5/PPP2PPP/R2QK2R w KQkq - 0 12</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="94">
+        <Action>36,63</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/1p4p1/1b1P4/2n5/PPP2PPP/R2QK2R w KQq - 0 13</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="95">
+        <Action>3,11</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/1p1n2p1/1b1P4/8/PPPQ1PPP/R3K2R w KQq - 2 14</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="96">
+        <Action>10,18</Action>
+        <State>r1bqk2B/pp1n1p2/4p2p/bp1n2p1/3P4/2P5/PP1Q1PPP/R3K2R w KQq - 1 15</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="97">
+        <Action>4,6</Action>
+        <State>r1bq1k1B/pp1n1p2/4p2p/bp1n2p1/3P4/2P5/PP1Q1PPP/R4RK1 w - - 3 16</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="98">
+        <Action>11,4</Action>
+        <State>r1b2k1B/ppqn1p2/4p2p/bp1n2p1/3P4/2P5/PP3PPP/R3QRK1 w - - 5 17</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="99">
+        <Action>4,28</Action>
+        <State>r1b3kB/ppqn1p2/4p2p/bp1n2p1/3PQ3/2P5/PP3PPP/R4RK1 w - - 7 18</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="100">
+        <Action>18,26</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/2qPQ3/8/PP3PPP/R4RK1 w - - 0 19</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="101">
+        <Action>5,2</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/1q1PQ3/8/PP3PPP/R1R3K1 w - - 2 20</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="102">
+        <Action>8,16</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp1n2p1/3PQ3/P7/1q3PPP/R1R3K1 w - - 0 21</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="103">
+        <Action>2,1</Action>
+        <State>r1b3kB/pp1n1p2/4p2p/bp4p1/3PQ3/P1n5/1q3PPP/RR4K1 w - - 2 22</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="104">
+        <Action>28,49</Action>
+        <State>r1b3kB/pQ1n1p2/4p2p/bp4p1/3P4/P7/1q3PPP/Rn4K1 w - - 0 23</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="105">
+        <Action>49,21</Action>
+        <State>r1b3kB/p2n1p2/4p2p/bp4p1/3P4/P4Q2/5PPP/Rnq3K1 w - - 2 24</State>
+        <Score>score: [0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="106">
+        <Action>21,3</Action>
+        <State>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="107">
+        <Action>1,18</Action>
+        <State>rnbqkbnr/pppp1ppp/8/4p3/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="108">
+        <Action>6,21</Action>
+        <State>r1bqkbnr/pppp1ppp/2n5/4p3/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="109">
+        <Action>12,28</Action>
+        <State>r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 1 4</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="110">
+        <Action>5,33</Action>
+        <State>r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 3 5</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="111">
+        <Action>21,36</Action>
+        <State>r1b1kb1r/ppppqppp/5n2/1B2N3/3nP3/2N5/PPPP1PPP/R1BQK2R w KQkq - 1 6</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="112">
+        <Action>36,51</Action>
+        <State>r3kb1r/pppbqppp/5n2/1B6/3nP3/2N5/PPPP1PPP/R1BQK2R w KQkq - 0 7</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="113">
+        <Action>33,26</Action>
+        <State>r3kb1r/pppbqppp/8/8/2Bnn3/2N5/PPPP1PPP/R1BQK2R w KQkq - 0 8</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="114">
+        <Action>26,53</Action>
+        <State>r4b1r/pppbqkpp/8/8/3nn3/2N5/PPPP1PPP/R1BQK2R w KQ - 0 9</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="115">
+        <Action>3,39</Action>
+        <State>r4b1r/pppbqk1p/6p1/7Q/3nn3/2N5/PPPP1PPP/R1B1K2R w KQ - 0 10</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="116">
+        <Action>39,35</Action>
+        <State>r4b1r/pppb1k1p/4q1p1/3Q4/3nn3/2N5/PPPP1PPP/R1B1K2R w KQ - 2 11</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="117">
+        <Action>35,44</Action>
+        <State>r4b1r/ppp2k1p/4b1p1/8/3nn3/2N5/PPPP1PPP/R1B1K2R w KQ - 0 12</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="118">
+        <Action>18,28</Action>
+        <State>r4b1r/ppp2k1p/4b1p1/8/4N3/8/PPnP1PPP/R1B1K2R w KQ - 0 13</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="119">
+        <Action>4,5</Action>
+        <State>r4b1r/ppp2k1p/6p1/8/2b1N3/8/PPnP1PPP/R1B2K1R w - - 2 14</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="120">
+        <Action>11,19</Action>
+        <State>r4b1r/ppp2k1p/6p1/8/4N3/3b4/PPn2PPP/R1B2K1R w - - 0 15</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="121">
+        <Action>5,6</Action>
+        <State>r4b1r/ppp2k1p/6p1/8/4b3/8/PPn2PPP/R1B3KR w - - 0 16</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="122">
+        <Action>0,1</Action>
+        <State>r4b1r/ppp2k1p/6p1/8/4b3/8/PP3PPP/1RB1n1KR w - - 2 17</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="123">
+        <Action>1,0</Action>
+        <State>r4b1r/ppp2k1p/6p1/8/8/8/PP3PbP/R1B1n1KR w - - 0 18</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="124">
+        <Action>2,20</Action>
+        <State>r4b1r/ppp2k1p/6p1/8/8/4B3/PP3P1P/R3n1Kb w - - 0 19</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="125">
+        <Action>0,4</Action>
+        <State>r4b1r/ppp2k1p/2b3p1/8/8/4B3/PP3P1P/4R1K1 w - - 1 20</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="126">
+        <Action>4,2</Action>
+        <State>r6r/ppp2k1p/2bb2p1/8/8/4B3/PP3P1P/2R3K1 w - - 3 21</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="127">
+        <Action>20,27</Action>
+        <State>r3r3/ppp2k1p/2bb2p1/8/3B4/8/PP3P1P/2R3K1 w - - 5 22</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="128">
+        <Action>27,20</Action>
+        <State>r7/ppp2k1p/2bb2p1/8/4r3/4B3/PP3P1P/2R3K1 w - - 7 23</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="129">
+        <Action>15,23</Action>
+        <State>r7/ppp2k1p/2bb2p1/8/7r/4B2P/PP3P2/2R3K1 w - - 1 24</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="130">
+        <Action>20,38</Action>
+        <State>r7/ppp2k1p/2bb2p1/6B1/8/7r/PP3P2/2R3K1 w - - 0 25</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="131">
+        <Action>6,5</Action>
+        <State>r7/ppp2k1p/3b2p1/6B1/8/5b1r/PP3P2/2R2K2 w - - 2 26</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="132">
+        <Action>5,4</Action>
+        <State>r7/ppp2k1p/6p1/6B1/1b6/5b1r/PP3P2/2R1K3 w - - 4 27</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="133">
+        <Action>2,18</Action>
+        <State>r7/ppp2k2/6pp/6B1/1b6/2R2b1r/PP3P2/4K3 w - - 0 28</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="134">
+        <Action>38,20</Action>
+        <State>3r4/ppp2k2/6pp/8/1b6/2R1Bb1r/PP3P2/4K3 w - - 2 29</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="135">
+        <Action>20,27</Action>
+        <State>8/ppp2k2/6pp/8/1b1r4/2R2b1r/PP3P2/4K3 w - - 0 30</State>
+        <Score>score: [0, 0, 0, 106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+    <RunData step="136">
+        <Action>4,5</Action>
+        <State>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1</State>
+        <Score>score: [0, 0, 0, 136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]</Score>
+    </RunData>
+</ToolkitSOML>

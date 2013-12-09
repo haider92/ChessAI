@@ -1,0 +1,125 @@
+
+<!doctype html>
+<html dir="ltr" lang="en">
+  <head>
+    <title>Chess Mind - AlphaBeta Search</title>
+    <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width">
+    <style media="screen">
+      html {
+        font: 300 0.9em/1.5 Helvetica Neue,Helvetica,Arial,sans-serif;
+        color: #222;
+        background: #f0f0f0;
+      }
+      body {
+        margin: 30px auto;
+        max-width: 960px;
+        position: relative;
+        padding: 5px 20px 20px;
+        border: 1px solid #b3b3b3;
+        border-radius: 4px;
+        box-shadow: 0 1px 10px #a7a7a7,inset 0 1px 0 #fff;
+        background: #fefefe;
+      }
+      a {
+        color: #005d8c;
+        text-decoration: none
+      }
+      a:visited {
+        color: #551a8b
+      }
+
+      a:hover {
+        border-bottom: 1px dashed #005580;
+        color: #005580;
+        text-decoration: none
+      }
+
+      a:focus {
+        outline: thin dotted
+      }
+
+      a:hover,a:active {
+        outline: 0
+      }
+      header,footer,article,section {
+        display: block;
+      }
+      footer {
+        text-align:center;
+      }
+      header:after,footer:after {
+        clear:both;
+        content: "";
+        display: block;
+        height: 0;
+        visibility: hidden;
+      }
+      header,footer {
+          *zoom: 1;
+      }
+      nav {
+        padding-top: 30px;
+        float: right;
+      }
+      nav ul {
+        margin: 0;
+        padding: 0;
+        list-style:none;
+      }
+      nav ul li {
+        margin: 0 1.3em;
+        font-weight: 500;
+        font-size: 1.3em;
+        display:inline-block;
+      }
+      @media screen and (max-width:1084px) {
+        body
+        {
+          margin: 30px;
+        }
+      }
+      @media screen and (max-width:500px) {
+        html {
+          background: #fefefe;
+        }
+        body {
+          margin: 0;
+          box-shadow:none;
+          border:none;
+          border-radius:0;
+        }
+        nav {
+          float: none;
+          text-align: center;
+          margin: 0 auto;
+        }
+      }
+    </style>
+    <!--[if lt IE 8]>
+    <style>
+    nav ul li { display:inline; zoom:1; }
+    </style>
+    <![endif]-->
+  </head>
+  <body>
+    <div role="main">
+      <article>
+        <header>
+          <h1>MiniMax Search</h1>
+        </header>
+        <section>
+          <p>
+            This is an intelligent mind that uses heuristics to evaluate the board.
+            Heuristics calculation looks at material pieces, mobility after move
+            and ability to castle. A higher weight is placed on mobility.
+          </p>
+          <p>
+            The MiniMax searches for the best move up to the depth of 2 moves into the future.
+            The move with the greatest score is returned and executed.
+          </p>
+        </section>
+      </article>
+    </div>
+  </body>
+</html>
