@@ -512,15 +512,11 @@ public class MiniMax implements Mind {
 ### Alphabeta
 #### http://w2mind.computing.dcu.ie/sys/mind.php?mind=AlphaBeta
 
-Negamax is a simple algorithm used to influence decisions within game theory. In the case of chess it can be used along side an evaluation function to determine an intellegent move.
+The Alphabeta algorithm is an improvement on on the negamax algorithm as it removes the need to search large sections of
+the game tree by using a branch and bound technique. 
 
-The algorithm works of the symmetric scoring. That is, the score is always minus the score of the opposition.
+The algorithm has two values, alpha and beta. They represent the minimum score that the maximizing player is confident of and the maximum score that the minimizing player is confident of respectively.
 
-In order to calculate white's move, We must first calculate black's move, In order to calculate blacks move, We must first.... 
-
-This is a recursive algorithm, in order for this process to not continue in definitely it is necessary to set a search depth.
-
-Taking all this into consideration the following mind was created:
 
 ```java
 import chess.*;
